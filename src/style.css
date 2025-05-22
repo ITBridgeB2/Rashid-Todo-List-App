@@ -1,0 +1,16 @@
+.btn-3d {
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 4px #0a58ca;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .btn-3d:active {
+    box-shadow: 0 2px #0a58ca;
+    transform: translateY(2px);
+  }
+  
